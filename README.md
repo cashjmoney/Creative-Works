@@ -242,14 +242,15 @@ This project provides a Python class for visualizing Airbnb data from a CSV file
    print("Running UI...")  # Debug print
    ui.run()
     ```
+2.**Download the other files within the repository 
 
-2. **Run the script**:
+3. **Run the script**:
 
     ```bash
     python niceGui.py
     ```
 
-3. **Interact with the UI**:
+4. **Interact with the UI**:
 
     - **Search for a Location**: Enter the location you want to search in the search bar and press Enter.
     - **Filter Listings by Price**: Adjust the price range slider and press the Enter button.
