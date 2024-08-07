@@ -242,7 +242,9 @@ This project provides a Python class for visualizing Airbnb data from a CSV file
    print("Running UI...")  # Debug print
    ui.run()
     ```
-2.**Download the other files within the repository 
+
+2.****Download the other files within the repository **
+
 
 3. **Run the script**:
 
