@@ -45,7 +45,7 @@ This project provides a Python class for visualizing Airbnb data from a CSV file
 
 ### Usage
 
-1. **Create a Python script** (download the other files as well as they all work in union to make the program work) with the following content:
+1. **Create a Python script** (download the other files as well, as they all work in unison to make the program work) with the following content:
 
     ```python
     from new_code import sort_all
