@@ -252,7 +252,7 @@ This project provides a Python class for visualizing Airbnb data from a CSV file
 
 3. **Interact with the UI**:
 
-    - **Search for a Location**: Enter the location you want to search in the search bar and press Enter.
+    - **Search for a Location**: Enter the state you want to search in the search bar and press Enter.
     - **Filter Listings by Price**: Adjust the price range slider and press the Enter button.
     - **Filter Listings by Reviews per Month**: Adjust the reviews per month range slider and press the Enter button.
     - **Filter Listings by Overall Reviews**: Adjust the overall reviews range slider and press the Enter button.
